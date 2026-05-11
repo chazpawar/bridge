@@ -1,1 +1,0 @@
-self.__BUILD_MANIFEST={__rewrites:{afterFiles:[],beforeFiles:[],fallback:[]},"/":["static/chunks/pages/index-163b36f85a63c768.js"],"/_error":["static/chunks/pages/_error-27e8dd6ee4f94f8f.js"],"/[partnerId]":["static/chunks/pages/[partnerId]-d4a9a56ae1930ba0.js"],sortedPages:["/","/_app","/_error","/[partnerId]"]},self.__BUILD_MANIFEST_CB&&self.__BUILD_MANIFEST_CB();
